@@ -1,8 +1,8 @@
-# Your Name Here
+# Meghan Longua
 # UWYO COSC 1010
-# Submission Date
+# Submission Date: 9/18/2024
 # Lab 02 
-# Lab Section: 
+# Lab Section:15 
 # Sources, people worked with, help given to: 
 # your
 # comments
