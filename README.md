@@ -1,6 +1,6 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# [Meghan Longua]
+## [Lab02]
+## [18 September 2024]
 ## Worked with/sources 
 * example
 * example
